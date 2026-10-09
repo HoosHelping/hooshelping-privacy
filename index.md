@@ -1,6 +1,6 @@
 # HoosHelping beta: privacy statement
 
-*Applies to: the HoosHelping **demonstration** build distributed through Apple TestFlight. Last updated: [DATE].*
+*Applies to: the HoosHelping **demonstration** build distributed through Apple TestFlight. Last updated: 2026-10-09.*
 
 **This beta is a demonstration.** The members, requests, chats and forum posts you see are made up. Nobody you
 "match" with is a real person, and no one will come to help.
